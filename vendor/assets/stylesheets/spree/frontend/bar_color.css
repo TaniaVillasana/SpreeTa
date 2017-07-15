@@ -1,0 +1,34 @@
+#spree-header{
+	background-color: #4f0303;
+}
+
+
+#default{
+	color: #4f0413;
+	font-family: 'cursive';
+	background-color: #fdffa3;
+}
+.breadcrumb{
+	background-color: #4f0303;
+}
+
+#home-page{
+	color: #f9ef81;
+	font-family: 'cursive';
+	background-color: #fffcbc;
+
+}
+.panel-body{
+	background-color: #4f0303;
+}
+.panel-footer{
+	background-color: #4f0303;
+}
+.a.list-group-item{
+	background-color: #4f0303;
+	color: #4f0303;
+}
+.list-group-item{
+	background-color: #4f0303;
+	color: #4f0303;
+}
