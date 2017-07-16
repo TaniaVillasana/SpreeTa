@@ -1,34 +1,34 @@
 #spree-header{
-	background-color: #4f0303;
+   background-color: #870013;
 }
 
 
 #default{
-	color: #4f0413;
-	font-family: 'cursive';
-	background-color: #fdffa3;
+   color: #4f0413;
+   font-family: 'cursive';
+   background-color: #e8aeb4;
 }
 .breadcrumb{
-	background-color: #4f0303;
+   background-color: #4f0303;
 }
 
 #home-page{
-	color: #f9ef81;
-	font-family: 'cursive';
-	background-color: #fffcbc;
+   color: #490101;
+   font-family: 'cursive';
+   background-color: #fcffb5;
 
 }
 .panel-body{
-	background-color: #4f0303;
+   background-color: #f9f7f7;
 }
 .panel-footer{
-	background-color: #4f0303;
+   background-color: #ed5757;
 }
 .a.list-group-item{
-	background-color: #4f0303;
-	color: #4f0303;
+   background-color: #f9f7f7;
+   color: #f9f7f7;
 }
 .list-group-item{
-	background-color: #4f0303;
-	color: #4f0303;
+   background-color: #f9f7f7;
+   color: #f9f7f7;
 }
